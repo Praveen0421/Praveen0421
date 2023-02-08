@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Praveen0421
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Full Stack Javascript Web Developer
+- 🌱 I’m currently learning Full Stack Javascript Web Development
 
 
 <!---
